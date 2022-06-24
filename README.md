@@ -1,0 +1,2 @@
+# djangocrud
+Zuri task
